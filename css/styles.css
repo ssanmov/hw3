@@ -1,0 +1,5 @@
+body{
+    background-image:url(/images/meta.jpg);
+    background-color: rgba(212, 55, 205, 0.933);
+    background-blend-mode: screen; 
+}
